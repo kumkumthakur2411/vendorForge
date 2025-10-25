@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
 import HowItWorks from '../components/HowItWork';
 import WhyChooseUs from '../components/WhyChooseUs';
@@ -11,7 +10,7 @@ import Footer from '../components/Footer';
 export const Landing = () => {
   return (
   <>
-    <Navbar></Navbar>
+    
     <HeroSection></HeroSection>
     <HowItWorks></HowItWorks>
     <WhyChooseUs></WhyChooseUs>

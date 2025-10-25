@@ -1,0 +1,14 @@
+pages/
+│   │   ├── Vendor/
+│   │   │   ├── VendorRegister.jsx
+│   │   │   ├── VendorLogin.jsx
+│   │   │   ├── VendorDashboard.jsx
+│   │   │   ├── VendorProfile.jsx
+│   │   │   ├── Leads.jsx
+│   │   │   ├── Notifications.jsx
+│   │   │   └── PublicVendorProfile.jsx
+│   │
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── ProtectedRoute.jsx
