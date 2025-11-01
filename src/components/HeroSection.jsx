@@ -7,7 +7,7 @@ const HeroSection = () => {
   return (
     <section className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto px-6 py-16">
       <div className="md:w-1/2 space-y-6">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-800">
+        <h1 className="text-4xl md:text-5xl font-bold text-secondary">
           Your all-in-one event vendor marketplace
         </h1>
         <p className="text-gray-600">
